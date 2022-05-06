@@ -7,7 +7,7 @@ Projeto Landing Page
          
 ## APRESENTAÇÃO
 
-Uma landing page interativa feita em HTML, CSS, JAVASCRIPT e BOOTSTRAP
+Uma landing page interativa de uma empresa de tecnologia feita em HTML, CSS, JAVASCRIPT e BOOTSTRAP
 Començando com uma barra de menu horizontal onde cada ítem leva o 
 usuário ao destino referente ao link.
 
